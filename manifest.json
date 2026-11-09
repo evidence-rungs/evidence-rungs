@@ -1,0 +1,263 @@
+{
+  "format": 3,
+  "mode": "release",
+  "version": "0.1.0",
+  "licenseStatus": "adopted",
+  "owner": "evidence-rungs",
+  "rightsHolder": "The evidence-rungs authors",
+  "approvedAt": "2026-10-23T21:31:05Z",
+  "files": [
+    {
+      "file": "README.md",
+      "bytes": 10125,
+      "sha256": "d82f1e8fa6fa208687c4b059b3cf4b4f0030207991f9a6ef76bb3f893ee4a088",
+      "spdxLicenseId": "CC-BY-4.0",
+      "licenseStatus": "adopted"
+    },
+    {
+      "file": "README.de.md",
+      "bytes": 3048,
+      "sha256": "5e37357d06cde5ad3fc2def29e557bcc843d31955c0f77f82ecc910e1a65186e",
+      "spdxLicenseId": "CC-BY-4.0",
+      "licenseStatus": "adopted"
+    },
+    {
+      "file": "CHANGELOG.md",
+      "bytes": 1409,
+      "sha256": "47fd51d8cfc9596c98f562ce2c0ebb643f71fafcb3cbf4421946c828f279631c",
+      "spdxLicenseId": "CC-BY-4.0",
+      "licenseStatus": "adopted"
+    },
+    {
+      "file": "COMPATIBILITY.md",
+      "bytes": 3229,
+      "sha256": "c07da6eb801a14801c4681e41554b28458f86acd31ec9c0d36c54bf221b051a5",
+      "spdxLicenseId": "CC-BY-4.0",
+      "licenseStatus": "adopted"
+    },
+    {
+      "file": "CONTRIBUTING.md",
+      "bytes": 3123,
+      "sha256": "8e51328d576ff07170ad6e4b491fd114ab7f5268748e5c02ae70a22317d21932",
+      "spdxLicenseId": "CC-BY-4.0",
+      "licenseStatus": "adopted"
+    },
+    {
+      "file": "SECURITY.md",
+      "bytes": 1001,
+      "sha256": "610f28d9a8dc54dc8a063c8e17faf10f0ae6a02d7e6bbbf95a4028c880b4ea9e",
+      "spdxLicenseId": "CC-BY-4.0",
+      "licenseStatus": "adopted"
+    },
+    {
+      "file": "LICENSE",
+      "bytes": 1083,
+      "sha256": "05d7a543b14d4dc2ec73b9ab5d75c7ce499ff4b8355188fe01b8761355c77cb0",
+      "spdxLicenseId": "MIT",
+      "licenseStatus": "adopted"
+    },
+    {
+      "file": "LICENSE-docs",
+      "bytes": 18787,
+      "sha256": "e7c6c5b8c0d1a04203bc3954a36faf855ed1cca6596590f953aa902b92fbd549",
+      "spdxLicenseId": "CC-BY-4.0",
+      "licenseStatus": "adopted"
+    },
+    {
+      "file": "LICENSING.md",
+      "bytes": 1024,
+      "sha256": "396436f4793cc5c718a390b8ec337f6a5240602b6a38c24a848149c3dc4aa800",
+      "spdxLicenseId": "CC-BY-4.0",
+      "licenseStatus": "adopted"
+    },
+    {
+      "file": "NOTICE",
+      "bytes": 4884,
+      "sha256": "b5f24e7ceaea2b8bfb11735efe17c6ebec1e8111ffd41ad524c3e50eced07838",
+      "spdxLicenseId": "CC-BY-4.0",
+      "licenseStatus": "adopted"
+    },
+    {
+      "file": "NOTICE.md",
+      "bytes": 2315,
+      "sha256": "9f0a048673984922d1cbeb05c78f632fec70f18a6a8b115fce94b91e85d17e94",
+      "spdxLicenseId": "CC-BY-4.0",
+      "licenseStatus": "adopted"
+    },
+    {
+      "file": "NAMES.md",
+      "bytes": 1930,
+      "sha256": "6e6efd946c1444f142f916c247f961d4b9f0dcae549365ff8df607b8beae2749",
+      "spdxLicenseId": "CC-BY-4.0",
+      "licenseStatus": "adopted"
+    },
+    {
+      "file": "tests/package.test.mjs",
+      "bytes": 10333,
+      "sha256": "c97d354d853b0cea780187f2f33d8bea4c46a268581a176e1341ae431eb00439",
+      "spdxLicenseId": "MIT",
+      "licenseStatus": "adopted"
+    },
+    {
+      "file": ".github/workflows/test.yml",
+      "bytes": 436,
+      "sha256": "e8aba1657f4cab6e61cf6398f853e7e08f671a5b9480254953985b2a5dfb699f",
+      "spdxLicenseId": "MIT",
+      "licenseStatus": "adopted"
+    },
+    {
+      "file": ".gitattributes",
+      "bytes": 103,
+      "sha256": "7883218a3bb8a09a88946c69ce498766f7ebc7c8f2b26f25728efe53515fd1e8",
+      "spdxLicenseId": "MIT",
+      "licenseStatus": "adopted"
+    },
+    {
+      "file": "adapters/openclaw.md",
+      "bytes": 2761,
+      "sha256": "88060d033c38a55d292080ac4cbfc1c356a1bcdc4e60e6bdcf8a1edbb9161e22",
+      "spdxLicenseId": "CC-BY-4.0",
+      "licenseStatus": "adopted"
+    },
+    {
+      "file": "adapters/claude-code.md",
+      "bytes": 2603,
+      "sha256": "c48077a1201c906627526641f49494b78ae7decc3346a82261dadea65d6b594b",
+      "spdxLicenseId": "CC-BY-4.0",
+      "licenseStatus": "adopted"
+    },
+    {
+      "file": "adapters/generic.md",
+      "bytes": 2578,
+      "sha256": "629999cf74c88429099f386fe4dd5a7f573564b354946270d3bec4aa7ea6c44d",
+      "spdxLicenseId": "CC-BY-4.0",
+      "licenseStatus": "adopted"
+    },
+    {
+      "file": "skills/evidence-rungs/SKILL.md",
+      "bytes": 10531,
+      "sha256": "e6cc9f4a716f2129deccfd7f0c59ac6d39d197d42e5710d469fa4cdce816bf8b",
+      "spdxLicenseId": "CC-BY-4.0",
+      "licenseStatus": "adopted"
+    },
+    {
+      "file": "skills/evidence-rungs/references/free-sources.md",
+      "bytes": 4392,
+      "sha256": "7deae7834cab02cbce8b88b201e02544f732c003b26db6e8851bb7d8fe20cee7",
+      "spdxLicenseId": "CC-BY-4.0",
+      "licenseStatus": "adopted"
+    },
+    {
+      "file": "skills/evidence-rungs/references/regions/TEMPLATE.md",
+      "bytes": 2015,
+      "sha256": "4d728fd459dc2f1e455933b71904d706ea5cf3d26a57d0731d3a13efcfaf913a",
+      "spdxLicenseId": "CC-BY-4.0",
+      "licenseStatus": "adopted"
+    },
+    {
+      "file": "skills/evidence-rungs/references/regions/at/law.md",
+      "bytes": 1313,
+      "sha256": "c01ffdb2710ce4085119999d585eec66ede78d60654981a3746d315f1d9163ec",
+      "spdxLicenseId": "CC-BY-4.0",
+      "licenseStatus": "adopted"
+    },
+    {
+      "file": "skills/evidence-rungs/references/regions/at/consumer.md",
+      "bytes": 1074,
+      "sha256": "8f180c76189b7b42e161da3ed17d26e14b5be775521b8faf0fb7fc40fac0dd97",
+      "spdxLicenseId": "CC-BY-4.0",
+      "licenseStatus": "adopted"
+    },
+    {
+      "file": "skills/evidence-rungs/references/regions/at/health.md",
+      "bytes": 1797,
+      "sha256": "e8c86d8ccbba04a388825a00df9bea2c42a6b1a3ac834e339b7a0338244d79ef",
+      "spdxLicenseId": "CC-BY-4.0",
+      "licenseStatus": "adopted"
+    },
+    {
+      "file": "skills/evidence-rungs/references/regions/at/technology.md",
+      "bytes": 1554,
+      "sha256": "5ef84b68c677bc6b0f3e7779c4631dd17181ebb3647116199f9ea23d0a275258",
+      "spdxLicenseId": "CC-BY-4.0",
+      "licenseStatus": "adopted"
+    },
+    {
+      "file": "skills/evidence-rungs/references/regions/at/science.md",
+      "bytes": 1670,
+      "sha256": "b809c906dcaca44535f1a4f724b5460066f719af897184dd123c17c48db7bbea",
+      "spdxLicenseId": "CC-BY-4.0",
+      "licenseStatus": "adopted"
+    },
+    {
+      "file": "skills/evidence-rungs/references/regions/at/purchases.md",
+      "bytes": 1478,
+      "sha256": "f1e357b64cd4072ac49922c4bcea3c2e0a23a15651eba45931138f6da8519fef",
+      "spdxLicenseId": "CC-BY-4.0",
+      "licenseStatus": "adopted"
+    },
+    {
+      "file": "skills/evidence-rungs/references/regions/at/community.md",
+      "bytes": 1623,
+      "sha256": "50f50d03ac747d757c9afb558a7602c9dcf91786d7c5db2932581a764f4f50b8",
+      "spdxLicenseId": "CC-BY-4.0",
+      "licenseStatus": "adopted"
+    },
+    {
+      "file": "skills/evidence-rungs/examples/01-stable-calculation.md",
+      "bytes": 929,
+      "sha256": "55987cba7dad8eab34fab596d46d3403fd593b57c87c2286675a7969823f63db",
+      "spdxLicenseId": "CC-BY-4.0",
+      "licenseStatus": "adopted"
+    },
+    {
+      "file": "skills/evidence-rungs/examples/02-official-procedure.md",
+      "bytes": 1893,
+      "sha256": "91f7b4ce8f46aa7b47e34120d65be169e4976b3926bdbfdcde0193c5193bac7b",
+      "spdxLicenseId": "CC-BY-4.0",
+      "licenseStatus": "adopted"
+    },
+    {
+      "file": "skills/evidence-rungs/examples/03-version-comparison.md",
+      "bytes": 1687,
+      "sha256": "506739b676327c430635a4ee0c48699e705b3544ba6ccc0f60c918d78cc2337d",
+      "spdxLicenseId": "CC-BY-4.0",
+      "licenseStatus": "adopted"
+    },
+    {
+      "file": "skills/evidence-rungs/examples/04-incomplete-evidence.md",
+      "bytes": 1572,
+      "sha256": "7fa100312228c39eae6527750415da522d4f77630951ae52f5dbfb3d80282abd",
+      "spdxLicenseId": "CC-BY-4.0",
+      "licenseStatus": "adopted"
+    },
+    {
+      "file": "skills/evidence-rungs/references/study-evidence.md",
+      "bytes": 1877,
+      "sha256": "9fddebcb491fa47415425043539163527c19b09fc32f650910e8c9480b1b4fa5",
+      "spdxLicenseId": "CC-BY-4.0",
+      "licenseStatus": "adopted"
+    },
+    {
+      "file": "skills/evidence-rungs/references/claim-critique.md",
+      "bytes": 1617,
+      "sha256": "182dc614dd80265c723a31da4e0854cbf2695d32503a355b9342942ee626d2a6",
+      "spdxLicenseId": "CC-BY-4.0",
+      "licenseStatus": "adopted"
+    },
+    {
+      "file": "skills/evidence-rungs/references/decision-synthesis.md",
+      "bytes": 1335,
+      "sha256": "3bcb7e301d6aff40b0294d83abc9c59cb18b5be5a61e78bdcf704b88ae9d901b",
+      "spdxLicenseId": "CC-BY-4.0",
+      "licenseStatus": "adopted"
+    },
+    {
+      "file": "skills/evidence-rungs/references/long-report-sources.md",
+      "bytes": 1369,
+      "sha256": "532a75be04261175f1a436dab0a4377989b9eb2bed1f8cc402b7d39605e5f27b",
+      "spdxLicenseId": "CC-BY-4.0",
+      "licenseStatus": "adopted"
+    }
+  ]
+}

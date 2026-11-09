@@ -1,0 +1,19 @@
+# SPDX-License-Identifier: MIT
+# SPDX-FileCopyrightText: 2026 The evidence-rungs authors
+name: Package structure
+on:
+  push:
+  pull_request:
+permissions:
+  contents: read
+jobs:
+  package:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+        with:
+          persist-credentials: false
+      - uses: actions/setup-node@v4
+        with:
+          node-version: 22
+      - run: node --test tests/package.test.mjs

@@ -1,0 +1,82 @@
+evidence-rungs — idea provenance and licensing notice
+Version 0.1.0; hosts untested.
+
+No third-party method text or code is copied. The cited projects are idea
+sources, not dependencies or endorsements. Standard license wording in LICENSE
+and LICENSE-docs is legal notice text, not original method text. This is a
+provenance declaration for this release (0.1.0), not proof of every earlier
+authoring step. If copied material is discovered, stop release and perform
+file-specific rights/notice review; do not silently relicense it.
+
+Actual upstream LICENSE files fetched read-only on 2026-10-21:
+
+1. Anthropic: anthropics/claude-cookbooks, main/LICENSE.
+   https://raw.githubusercontent.com/anthropics/claude-cookbooks/main/LICENSE
+   MIT License; Copyright (c) 2023 Anthropic.
+   Scope credited: research-workflow ideas only. No particular cookbook
+   notebook or prompt text is reproduced or asserted to be separately cleared.
+   The separate anthropics/skills README explicitly distinguishes many
+   Apache-2.0 skills from source-available docx/pdf/pptx/xlsx skills:
+   https://raw.githubusercontent.com/anthropics/skills/main/README.md
+   Root LICENSE and LICENSE.txt GETs returned 404; no whole-collection license
+   is inferred. Its folder/loading pattern is idea-only acknowledgement.
+
+2. Stanford STORM: stanford-oval/storm, main/LICENSE.
+   https://raw.githubusercontent.com/stanford-oval/storm/main/LICENSE
+   MIT License; Copyright (c) 2024 Stanford Open Virtual Assistant Lab.
+   Scope: repository code license only. FreshWiki/articles/datasets have
+   separate terms; none is included. Idea: perspectives before synthesis.
+
+3. NVIDIA AI-Q: NVIDIA-AI-Blueprints/aiq-research-assistant, main/LICENSE.
+   https://raw.githubusercontent.com/NVIDIA-AI-Blueprints/aiq-research-assistant/main/LICENSE
+   Apache License 2.0; appendix Copyright 2020 NVIDIA Corporation.
+   Scope: that blueprint's root code license, not models or external data.
+   Ideas: intent/depth routing, source roles, bounded clarification.
+
+4. Jina: jina-ai/node-DeepResearch, main/LICENSE.
+   https://raw.githubusercontent.com/jina-ai/node-DeepResearch/main/LICENSE
+   Apache License 2.0; file heading Copyright 2020-2025 Jina AI Limited;
+   appendix Copyright 2020-2021 Jina AI Limited (both as observed).
+   Ideas: evidence gaps, compact notes, honest stop conditions.
+
+5. Onyx: onyx-dot-app/onyx, main/LICENSE.
+   https://raw.githubusercontent.com/onyx-dot-app/onyx/main/LICENSE
+   Copyright (c) 2023-present DanswerAI, Inc. MIT Expat outside ee directories
+   and third-party restrictions; ee is Onyx Enterprise License. Idea only:
+   answer-component coverage. No enterprise content or code is included.
+
+6. K-Dense: scientific skill collection; exact repository and file below.
+   https://raw.githubusercontent.com/K-Dense-AI/scientific-agent-skills/main/LICENSE.md
+   K-Dense Inc., copyright year 2025; MIT terms. LICENSE without extension
+   returned 404. Idea only: scientific database routing; no blanket rights
+   claimed for linked tools, datasets, or external content.
+
+These are live main-branch observations, not immutable upstream revision pins.
+Before copying any upstream material, identify its exact file/revision and
+preserve its actual notices and license, including Apache NOTICE requirements
+where applicable. Idea acknowledgement alone does not authorize copying.
+
+Additional conceptual acknowledgements (not license findings):
+- 199-biotechnologies: retaining evidence identity
+  while a requested long report is reorganized.
+  https://github.com/199-biotechnologies/claude-deep-research-skill
+- DishantPal/deep-research-skill: a plausible decision-changing alternative
+  rather than a decorative contrary link.
+  https://github.com/DishantPal/deep-research-skill
+- Imbad0202/academic-research-skills, deep-research: critique grounded in
+  the material actually read and a clearly attributed methodological concern.
+  https://github.com/Imbad0202/academic-research-skills/tree/main/deep-research
+- K-Dense literature-review: relating reports to
+  their underlying investigation and identifying a limited retrieval sample.
+  https://github.com/K-Dense-AI/scientific-agent-skills/tree/main/skills/literature-review
+For these concepts: ideas only, own wording, no code or text reused.
+No license permission for any of these idea sources is asserted here. These
+credits do not authorize importing their prompts, code, schemas or text.
+
+Original code: MIT. Original prose/source cards: CC-BY-4.0.
+See LICENSING.md for the adopted scope/SPDX scheme.
+Linked articles, comments, abstracts, images, tests, hosted
+services, and datasets retain their own rights. No external content is
+relicensed. NICE remains link-only under the inherited health reference.
+No trademark, affiliation, official certification, or access permission is
+granted by any software-license label or by this notice.
